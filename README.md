@@ -1,4 +1,4 @@
-# 🧩 GOXDILL • Auto Install Panel (Pterodactyl & WHM)
+# 🧩 Auto Install Pterodactyl & WHM
 
 Script Termux serbaguna untuk meng-install:
 - 🟦 **Pterodactyl Panel**
